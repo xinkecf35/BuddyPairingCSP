@@ -8,4 +8,4 @@ OR-Tools can operate over it and generate a reasonable solution
 from given inputs
 
 or alternatively
-* how do we boil down human relationship formation into a graph (maybe) *
+**how do we (maybe) boil down human relationship formation into a graph?**
